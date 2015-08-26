@@ -2,7 +2,7 @@
 Contributors: Barbotkin
 Tags: weather, shortcode
 Requires at least: 3.0
-Tested up to: 4.1.1
+Tested up to: 4.3
 Stable tag: 4.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
